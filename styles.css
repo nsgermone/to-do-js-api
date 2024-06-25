@@ -1,0 +1,31 @@
+body {
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: light dark;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+input {
+  margin: 1% 0;
+  background-color: Canvas;
+}
+
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  position: static;
+  width: 80%;
+  overflow-y: scroll;
+}
+
+#add-btn {
+  background-color: blue;
+  color: White;
+  margin-top: 10px;
+  width: 60px;
+  height: 30px;
+}
